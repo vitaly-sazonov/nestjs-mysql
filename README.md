@@ -1,1 +1,2 @@
-# nestjs-mysql
+# nestjs-pg
+NestJS module mysql2
